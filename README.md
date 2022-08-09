@@ -29,7 +29,7 @@ The Server IP ADDRESS = '192.168.1.31' and PORT = 7272
 6. After the clients are connected all set to MOTION CONTROL using keys from client 
 
 
-#Setting up client side 
+#Setting up the client side 
 1.Open command prompt 
 2. Set directory to the folder containing the pmotionclient code (type: cd to change directory) 
 3. Run the client code pmotionclient (type: python pmotionclient.py) 
